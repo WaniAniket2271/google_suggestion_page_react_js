@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.suggestion-container {
+  display: flex;
+  justify-content: row;
+  justify-content: space-between;
+  padding: 5px;
+  list-style-type: none;
+}
+.arrow-button {
+  background-color: white;
+  border-width: 0px;
+}
+.arrow-img {
+  width: 30px;
+  height: 30px;
+}
+.para {
+  color: #64748b;
+  font-size: 20px;
+}
